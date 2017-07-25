@@ -1,2 +1,6 @@
-# ARSolarPlayDemo
-AR环境下太阳系运行动画效果
+# ARSolarPlay
+太阳系AR展示
+ ![img](https://github.com/miliPolo/ARSolarPlay/raw/TestBranch/ARSolarPlay/ARSolarPlay.gif)
+
+
+
