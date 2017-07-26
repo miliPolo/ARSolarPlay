@@ -1,4 +1,4 @@
-![ARSolarPlay](ARSolarPlay/Assets/cover.png)
+![ARSolarPlay](ARSolarPlay/Asset/cover.png)
 
 ## ARSolarPlay
 
