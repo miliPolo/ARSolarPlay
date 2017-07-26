@@ -1,4 +1,4 @@
-![ARSolarPlay](blob/master/ARSolarPlay/Assets/cover.jpg)
+![ARSolarPlay](ARSolarPlay/Assets/cover.png)
 
 ## ARSolarPlay
 
@@ -19,7 +19,7 @@
 
 ## Related Video & Gif
 
-- ![ARSolar.gif](blob/master/ARSolarPlay/Assets/ARSolarPlay.gif)
+- ![ARSolar.gif](ARSolarPlay/Asset/ARSolarPlay.gif)
 
 - https://www.bilibili.com/video/av12175891/
 
