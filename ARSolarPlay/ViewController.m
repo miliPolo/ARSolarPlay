@@ -32,7 +32,13 @@
 - (IBAction)btnClicked:(id)sender {
     
     SCNViewController *scnVC = [[SCNViewController alloc]init];
-    [self presentViewController:scnVC animated:NO completion:nil];
+    [self.navigationController pushViewController:scnVC animated:YES];
+}
+- (IBAction)btnVRModeClicked:(id)sender {
+    
+    SCNViewController *scnVC = [[SCNViewController alloc]init];
+    scnVC.isCardBoard = YES;
+    [self.navigationController pushViewController:scnVC animated:YES];
 }
 
 - (void)didReceiveMemoryWarning {

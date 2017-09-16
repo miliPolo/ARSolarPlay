@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface SCNViewController : UIViewController
+@property(nonatomic, assign) BOOL isCardBoard;
 
 @end
